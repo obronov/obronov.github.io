@@ -223,7 +223,8 @@ main {
   height: 371px;
   background: #fff;
   border: 2px solid #f4f4f4;
-  padding: 10px; }
+  padding: 10px;
+  resize: none; }
 
 .checkbox_2 {
   margin: 0 0 17px; }
